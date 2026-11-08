@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:670383ba-fe1b-54cb-942f-f4c00acd128e",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-13T21:09:13Z",
+    "component": {
+      "type": "application",
+      "name": "K_HEXSTRIKE",
+      "version": "d689933ff579",
+      "bom-ref": "pkg:generic/anticloud/K_HEXSTRIKE@d689933ff579",
+      "purl": "pkg:generic/anticloud/K_HEXSTRIKE@d689933ff579",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "d689933ff579d839c676c82b231f8e98326c5f04"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/0x4m4/hexstrike-ai.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
